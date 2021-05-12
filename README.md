@@ -1,3 +1,6 @@
-# Projeto Stack Overflow
+# Stack Overflow interface project
 
-Projeto de reprodução do estilo do site Stack Overflow como exercício de HTML e CSS, sob orientação de Danilo Ferreira. Bootcamp Desenvolvedor Front-end, na IGTI cursos. 
+This was a practice project on IGTI Cursos Front End Developer Bootcamp to reproduce Stack Overflow's interface, oriented by Danilo Ferreira, using HTML and CSS.
+
+## Screenshot
+![](https://user-images.githubusercontent.com/79882701/118047739-95177f00-b351-11eb-9b96-fe6c9970240f.png)
